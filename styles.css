@@ -16,6 +16,7 @@ body{
 .assignment img {
     width: 200px;
     padding: 10px;
+    margin-right: 20px;
     border: 10px;
     display: block;
     margin: auto;
@@ -24,4 +25,13 @@ body{
 h1 {
     color: plum;
     text-align:center;
+}
+a {
+    text-decoration: none;
+    color: lightslategray;
+
+}
+h2 {
+    border-radius: 10px;
+    border-color: lightslategray;
 }
